@@ -1,5 +1,5 @@
 * 🔭 Currently working as a **Quality Assurance Lead at Amazon**
-* 🌱 Actively learning **React.js** and **Test Automation (Python, Selenium)**
+* 🌱 Actively learning **React.js** and **Test Automation (Java, Selenium)**
 * 🧪 Interested in **Tech Support / Automation / Data-driven Testing** roles
 * 👨‍💻 Portfolio & projects: **https://furqanullah.netlify.app**
 * 📫 Reach me at: **furqanmohammed328@gmail.com**
